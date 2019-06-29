@@ -8,7 +8,7 @@ ApacheCN 接受以下主题的博文：
 
 每日从所有投稿中精选两篇，在 ApacheCN 全公众平台推送。
 
-投稿时请新建 Issues，按以下格式进行填写：
+请在 [apachecn/awesome-article-recomm](https://github.com/apachecn/awesome-article-recomm) 仓库新建 Issue，按以下格式填写：
 
 1.  博文地址
 1.  是否为个人原创
