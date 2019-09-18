@@ -21,6 +21,46 @@ ApacheCN 接受以下主题的博文：
 
 ## 历史文章
 
+### 2019.9
+
++   [seaborn 0.9 中文文档翻译完成 | ApacheCN](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247484011&idx=1&sn=b16a441eaad6b52c064e3c6082212df5&chksm=fd3ba77dca4c2e6b4e0b3dcc732129ff06c715427c5db1fc8ee1836f7bb0f11cec54bee408d9#rd)
++   [ApacheCN 翻译/校对/笔记整理活动进度公告 2019.9.13](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247484007&idx=1&sn=9110d53aa7b8569a191cbfb68a75f7e9&chksm=fd3ba771ca4c2e678309a4354a2a657ff97b0e3295fe44e9638ec443cb5b4bb554237b037d87#rd)
++   [迷茫和未知，如何规划职业生涯？](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247484003&idx=1&sn=16f953c13bc528b6e82601d613dfbfd4&chksm=fd3ba775ca4c2e63dd3bbf69609fdc3470a9e58ecafa04eb225e364ea9ff6d0ff0062d53bb9d#rd)
++   [人工智能/数据科学比赛汇总 2019.9](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247484001&idx=1&sn=52bb85beb5f93ebd0e66f24182a50299&chksm=fd3ba777ca4c2e61942fe39c4dc88519a9c9e181adb5dfee396b4af45b41c861a05a4426eaa0#rd)
++   [机器人跳钢管舞，岂止是性感](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483997&idx=1&sn=85b746fc188c941a182e689154c6e239&chksm=fd3ba74bca4c2e5ddd535f5855294775194f4cbe435bb432f373db0789d51fcb55343a437aaa#rd)
++   [ApacheCN×Tesra 免费算力申请活动](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483995&idx=1&sn=3c8a2bac8b5e80eae2d4ffbde865c047&chksm=fd3ba74dca4c2e5b7668a583b905d93f10da9a652920c3512f10f5d345e13b959dd514ae5f01#rd)
++   [年轻人的第一块金牌：我是如何成为 Kaggle 全网第一的](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483991&idx=1&sn=2c5ce582ef04b22ba0f59c8363d9bae9&chksm=fd3ba741ca4c2e5772a1d31782b9a8758a651835d580bcde770efbad3fb6c2af4149bd67450d#rd)
++   [ApacheCN 翻译/校对/笔记整理活动进度公告 2019.9.6](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483987&idx=1&sn=2c40eaf82c89931d89043f00605b03aa&chksm=fd3ba745ca4c2e531e529e6adea21e9a9e8ea64fac107b08c1d316617aa06687d5919ddfed76#rd)
++   [超全！CS 顶会历届最佳论文大列表，机器学习、深度学习一应俱全！](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483983&idx=1&sn=376cd5b7cd382a969aee81aa2055b97e&chksm=fd3ba759ca4c2e4f83449483892a5550b22110805c99d8736c92b81425563b6e1f7c94f22b4e#rd)
++   [罗浩.ZJU | 如何看待 2020 届校招算法岗「爆炸」的情况？](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483981&idx=1&sn=beee332b28fc94699f232b988cc234c9&chksm=fd3ba75bca4c2e4db87cddaaead77cc2802ea9591da38d3e15dc0a39f87ad61b6d323e6f5479#rd)
++   [他们和机器人啪啪啪，并计划共度一生](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483981&idx=2&sn=72aabfc03405f46c27e4c22471ec1830&chksm=fd3ba75bca4c2e4db3c69eba8d43f283e62eca9d4b09dcbb7177ef7f0a81c2b998a3bca061ff#rd)
++   [AI 换脸 App 一夜走红，陌陌高管控股【智能快讯】](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483981&idx=3&sn=99b4a78ad5d75eed34f1802126d1e124&chksm=fd3ba75bca4c2e4daa5fa6141232ed3ffae6c9e4515d997ceea7475b081fa657352b8c9f1e9d#rd)
++   [人脸识别进课堂？印度学生：不新鲜了！](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483981&idx=4&sn=625940b23879ad1853953d7f9b95bc1d&chksm=fd3ba75bca4c2e4dd66733bd6b5a8ff1357ae198890cefd7d7b47409a984ebdd8f605bd9cf4b#rd)
++   [数据科学/人工智能比赛解决方案汇总 2019.9](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483979&idx=1&sn=e539318dc461f44a6c823ef0dd631f5b&chksm=fd3ba75dca4c2e4b1709393060250c4709650ac17889edda2cc00ad5f0f8a9fc5546d91548d5#rd)
++   [ApacheCN 编程/大数据/数据科学/人工智能学习资源 2019.9](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483974&idx=1&sn=c5bb514fc4ecd183866cad6b78e01f65&chksm=fd3ba750ca4c2e463599e4dec15217692732fa955b6c0174c7a926854dbbdbfb45475c444d94#rd)
++   [吐血整理！10 个机器学习教程汇总，爱可可推荐！](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483970&idx=1&sn=03b4f598b43043c844d47276757a05ec&chksm=fd3ba754ca4c2e42689605dd3cfc73b1d3678f85ef54759a0ee82423160da08625d6df90564f#rd)
++   [重磅！吴恩达、林轩田公开课交流群正式成立啦](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483970&idx=2&sn=bedfff4c3b45d7c78dbd551cac2f79e3&chksm=fd3ba754ca4c2e424d6c8e46120dd822e97e2d093ce5e1c1aac1e48a06cc40f32ce6e26fa741#rd)
++   [周志华《机器学习》西瓜书精炼版笔记来了！16 章完整版](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483970&idx=3&sn=4e92cd2d5f7f6b907248697410259b23&chksm=fd3ba754ca4c2e423b9f0bffaf670d497c10441b1d963337d86639fd15356bbe3f1dcdf54d5e#rd)
++   [手把手教你在 Ubuntu16.04 安装 GPU 驱动 + CUDA9.0 + cuDNN7](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483970&idx=4&sn=a0f75bc490aceffd78304cf3c5b2e8f7&chksm=fd3ba754ca4c2e42448664ea9164d10d51e3fca5337c5d82fcc225a8277452e8aca6a1a9bd9d#rd)
++   [ApacheCN 活动汇总 2019.8.30](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483968&idx=1&sn=31394b98f69ecb9b55909f112b4d14c5&chksm=fd3ba756ca4c2e4018a3ebe89bc5717b74de9849a5e8273e9111616668d2df198113f25bacbf#rd)
++   [竞赛专题 | 数据预处理-如何处理数据中的坑？](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483964&idx=1&sn=8c6a1e7b85d9da811cf5f1aa7bdedd9e&chksm=fd3ba72aca4c2e3c8d72353deccb18379037a3a928e8dc35885c7338d4ee5f9b09d0eee1c191#rd)
++   [说出来可能不信，现在酒厂都在招算法工程师](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483964&idx=2&sn=deaf12dda34ca97202b889e773658e89&chksm=fd3ba72aca4c2e3c9d2e5c13aaeaee17df80ca1a24d5ce471518e05f955154e0de136d94f778#rd)
++   [动荡之秋，谁能用 AI 制衡全球](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483964&idx=3&sn=dc23ce5e5bb64907f81c11ad07a29a95&chksm=fd3ba72aca4c2e3cdb06156aced4c4734dacac4f39d6ea2cdab9add5e7ad0b9eb5a52f896526#rd)
++   [谷歌新算法：多人对话中识别「谁在发言」【智能快讯】](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483964&idx=4&sn=063fd83d6bb04a51146f1615b871f7f1&chksm=fd3ba72aca4c2e3ca3f4531c11de99e0f3842435ffd1d66baaa044f1cd699c9c59c80993b587#rd)
++   [北漂经历 | 我在北京这几年（全）](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483962&idx=1&sn=c086fd2d9d5692a057e0fbe6c4e56dc7&chksm=fd3ba72cca4c2e3aec17a2e9c8baa574935007d343ab2628247529ffeaa4fe79daad358b939d#rd)
++   [年轻人，你为什么迷茫？（一）——如何赚钱？](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483962&idx=2&sn=807a3572ddbc7c1781d2d4e59e7d23b9&chksm=fd3ba72cca4c2e3a3ab008125c77ff7e9842756f8a6ebbba75b91d4602d58ad94541107c5bc9#rd)
++   [Kaggle比赛的进阶技巧和国内比赛前十套路](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483962&idx=3&sn=58f907eebd2e5387f98d52e5786f3ae1&chksm=fd3ba72cca4c2e3a638b8026e5d16a6f8f160e46ced0e8a52a6be83516d72732320fdff2d316#rd)
++   [Debug Your Life！关于学习、面试和工作成长（附B站录播）](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483962&idx=4&sn=92671f9456fca1d76b639a6f57cc2a91&chksm=fd3ba72cca4c2e3a6df22a47f256aa7c7c1142a1ddb7a13242597123405d8326653e9ee6d29b#rd)
++   [beginnersbook C 语言教程·翻译完成 | ApacheCN](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483960&idx=1&sn=de3f27774bc50cc3cef18486f08b43ae&chksm=fd3ba72eca4c2e38b68b0e6b18cf3e97132f8bff00bd70962712ebb32a21cf813031c32ffa01#rd)
++   [ApacheCN 活动汇总 2019.8.23](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483956&idx=1&sn=f16fdd8a03828ed2c3abe85d37d1bb50&chksm=fd3ba722ca4c2e342594499e3609f93fe489264ae22e596f2a7dd9d2689fa81b574942085dab#rd)
++   [斯坦福CS229机器学习课程的数学基础（概率论）翻译完成](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483950&idx=1&sn=7b8b803b7ce4ede0df189e8d986754ef&chksm=fd3ba738ca4c2e2e99f7235a0e849e317ec731b899e8e6c7d30256f2d140a76b4593498c471e#rd)
++   [斯坦福CS229机器学习课程的数学基础（线性代数）翻译完成](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483950&idx=2&sn=37e8e7a8b2477d1d0999f31b8b6453ec&chksm=fd3ba738ca4c2e2eb26578a8402874938555cef964cb4316b7f66ce0956a403f6b46f627b27e#rd)
++   [深度学习笔记之《解析卷积神经网络》附下载地址](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483948&idx=1&sn=c8d1a311ef720693c2d60ca3cf93acc5&chksm=fd3ba73aca4c2e2ce3ec20e5724797a92a1ca86596645cc94730af310834bd8eebafce0b6e6f#rd)
++   [Kaggle竞赛神器—Facets：快速评估数据集质量，把控数据分析核心环节](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483948&idx=2&sn=0749c1b80511bb01bf8c7317d35096dc&chksm=fd3ba73aca4c2e2c1837f5e05e8e653672aa366314b265e63d20e6e27175b56d944b61eda6b7#rd)
++   [这两年：我的数据竞赛之路](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483948&idx=3&sn=38bfb46075e13f9772b30e9d8a7aa753&chksm=fd3ba73aca4c2e2c8ea557a01f6a796d8e6a9ce11446adcd9d360a838b9f0b2ad69182afefdf#rd)
++   [ApacheCN 活动汇总 2019.8.16](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483946&idx=1&sn=f11b4f08b8ab31dac91d663734680ef1&chksm=fd3ba73cca4c2e2a7788f66f33496abc9ffba75d39da6d4a9976fa1788995bfcdded320ed280#rd)
++   [ApacheCN 公众号文章汇总 2019.8](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483942&idx=1&sn=ada72c3b8153712b7ff1f9c7c7459309&chksm=fd3ba730ca4c2e261bda9af769e5c910db37d0e169e9b3474181b39c8a1592c581bf92c66e5f&token=1751492347&lang=zh_CN#rd)
+
 ### 2019.8
 
 +   [仰望大佬：如何活学活用，用技术找对象](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483938&idx=1&sn=c95a3aeab28cadafaac68723e15d5e2c&chksm=fd3ba734ca4c2e222e5613f5a9314261fbf38ac1d38211f680b1067bd17557396ef5b53b1460#rd)
@@ -70,7 +110,6 @@ ApacheCN 接受以下主题的博文：
 +   [ApacheCN 活动汇总 2019.7.27](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483891&idx=1&sn=52d16d6d7b822df30a40bdbb0a8d63e0&chksm=fd3ba4e5ca4c2df3705c8700c5782e819758a6b3856cfee3788bd50e1a5a4a51ce57b9c379e7#rd)
 +   [图深度学习论文笔记整理活动 | ApacheCN](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483887&idx=1&sn=52af08a879e2f3847ff7af56320b5a9e&chksm=fd3ba4f9ca4c2def0c33773e2aadba491ae557df358a37dadbf651b71c9ca600eff107812af3#rd)
 +   [ApacheCN 公众号文章汇总 2019.7](http://mp.weixin.qq.com/s?__biz=MzU3Mzg3OTQxNw==&mid=2247483883&idx=1&sn=b6ea577617c673ad960dc7401a248ca0&chksm=fd3ba4fdca4c2deb345600c34c374b0c4519a09c952b75e16340a7d42f69d7307a2eff7cd148#rd)
-
 
 ### 2019.7
 
